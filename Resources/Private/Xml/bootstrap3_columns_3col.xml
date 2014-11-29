@@ -7,12 +7,12 @@
 		<general>
 			<ROOT type="array">
 				<TCEforms>
-					<sheetTitle>Spalten (normal)</sheetTitle>
+					<sheetTitle>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.title_md</sheetTitle>
 				</TCEforms>
 				<el type="array">
 					<width_column_md_1 type="array">
 						<TCEforms type="array">
-							<label>Breite Spalte 1</label>
+							<label>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.width_colunm_1</label>
 							<config type="array">
 								<type>select</type>
 								<items type="array">
@@ -71,7 +71,7 @@
 					</width_column_md_1>
 					<width_column_md_2 type="array">
 						<TCEforms type="array">
-							<label>Breite Spalte 2</label>
+							<label>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.width_colunm_2</label>
 							<config type="array">
 								<type>select</type>
 								<items type="array">
@@ -130,7 +130,7 @@
 					</width_column_md_2>
 					<width_column_md_3 type="array">
 						<TCEforms type="array">
-							<label>Breite Spalte 3</label>
+							<label>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.width_colunm_3</label>
 							<config type="array">
 								<type>select</type>
 								<items type="array">
@@ -189,7 +189,7 @@
 					</width_column_md_3>
 					<equalHeight type="array">
 						<TCEforms type="array">
-							<label>Gleiche Höhe für alle Spalten</label>
+							<label>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.sameheight</label>
 							<config type="array">
 								<type>check</type>
 								<items>
@@ -207,17 +207,17 @@
 		<columns_xs>
 			<ROOT type="array">
 				<TCEforms>
-					<sheetTitle>Spalten (sehr klein)</sheetTitle>
+					<sheetTitle>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.title_xs</sheetTitle>
 				</TCEforms>
 				<el type="array">
 					<width_column_xs_1 type="array">
 						<TCEforms type="array">
-							<label>Breite Spalte 1</label>
+							<label>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.width_colunm_1</label>
 							<config type="array">
 								<type>select</type>
 								<items type="array">
 									<numIndex index="0" type="array">
-                                    <numIndex index="0">Nicht definiert</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.undefined</numIndex>
                                     <numIndex index="1">
                                     </numIndex>
                                     </numIndex>
@@ -276,12 +276,12 @@
 					</width_column_xs_1>
 					<width_column_xs_2 type="array">
 						<TCEforms type="array">
-							<label>Breite Spalte 2</label>
+							<label>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.width_colunm_2</label>
 							<config type="array">
 								<type>select</type>
 								<items type="array">
 									<numIndex index="0" type="array">
-                                    <numIndex index="0">Nicht definiert</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.undefined</numIndex>
                                     <numIndex index="1">
                                     </numIndex>
                                     </numIndex>
@@ -340,12 +340,12 @@
 					</width_column_xs_2>
 					<width_column_xs_3 type="array">
 						<TCEforms type="array">
-							<label>Breite Spalte 3</label>
+							<label>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.width_colunm_3</label>
 							<config type="array">
 								<type>select</type>
 								<items type="array">
 									<numIndex index="0" type="array">
-                                    <numIndex index="0">Nicht definiert</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.undefined</numIndex>
                                     <numIndex index="1">
                                     </numIndex>
                                     </numIndex>
@@ -408,17 +408,17 @@
 		<columns_sm>
 			<ROOT type="array">
 				<TCEforms>
-					<sheetTitle>Spalten (klein)</sheetTitle>
+					<sheetTitle>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.title_sm</sheetTitle>
 				</TCEforms>
 				<el type="array">
 					<width_column_sm_1 type="array">
 						<TCEforms type="array">
-							<label>Breite Spalte 1</label>
+							<label>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.width_colunm_1</label>
 							<config type="array">
 								<type>select</type>
 								<items type="array">
 									<numIndex index="0" type="array">
-                                    <numIndex index="0">Nicht definiert</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.undefined</numIndex>
                                     <numIndex index="1">
                                     </numIndex>
                                     </numIndex>
@@ -477,12 +477,12 @@
 					</width_column_sm_1>
 					<width_column_sm_2 type="array">
 						<TCEforms type="array">
-							<label>Breite Spalte 2</label>
+							<label>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.width_colunm_2</label>
 							<config type="array">
 								<type>select</type>
 								<items type="array">
 									<numIndex index="0" type="array">
-                                    <numIndex index="0">Nicht definiert</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.undefined</numIndex>
                                     <numIndex index="1">
                                     </numIndex>
                                     </numIndex>
@@ -541,12 +541,12 @@
 					</width_column_sm_2>
 					<width_column_sm_3 type="array">
 						<TCEforms type="array">
-							<label>Breite Spalte 3</label>
+							<label>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.width_colunm_3</label>
 							<config type="array">
 								<type>select</type>
 								<items type="array">
 									<numIndex index="0" type="array">
-                                    <numIndex index="0">Nicht definiert</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.undefined</numIndex>
                                     <numIndex index="1">
                                     </numIndex>
                                     </numIndex>
@@ -609,17 +609,17 @@
 		<columns_lg>
 			<ROOT type="array">
 				<TCEforms>
-					<sheetTitle>Spalten (sehr groß)</sheetTitle>
+					<sheetTitle>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.title_lg</sheetTitle>
 				</TCEforms>
 				<el type="array">
 					<width_column_lg_1 type="array">
 						<TCEforms type="array">
-							<label>Breite Spalte 1</label>
+							<label>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.width_colunm_1</label>
 							<config type="array">
 								<type>select</type>
 								<items type="array">
 									<numIndex index="0" type="array">
-                                    <numIndex index="0">Nicht definiert</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.undefined</numIndex>
                                     <numIndex index="1">
                                     </numIndex>
                                     </numIndex>
@@ -678,12 +678,12 @@
 					</width_column_lg_1>
 					<width_column_lg_2 type="array">
 						<TCEforms type="array">
-							<label>Breite Spalte 2</label>
+							<label>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.width_colunm_2</label>
 							<config type="array">
 								<type>select</type>
 								<items type="array">
 									<numIndex index="0" type="array">
-                                    <numIndex index="0">Nicht definiert</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.undefined</numIndex>
                                     <numIndex index="1">
                                     </numIndex>
                                     </numIndex>
@@ -742,12 +742,12 @@
 					</width_column_lg_2>
 					<width_column_lg_3 type="array">
 						<TCEforms type="array">
-							<label>Breite Spalte 3</label>
+							<label>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.width_colunm_3</label>
 							<config type="array">
 								<type>select</type>
 								<items type="array">
 									<numIndex index="0" type="array">
-                                    <numIndex index="0">Nicht definiert</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.undefined</numIndex>
                                     <numIndex index="1">
                                     </numIndex>
                                     </numIndex>
@@ -810,45 +810,45 @@
 		<visibility>
 			<ROOT type="array">
 				<TCEforms>
-					<sheetTitle>Sichtbarkeit</sheetTitle>
+					<sheetTitle>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.visibility</sheetTitle>
 				</TCEforms>
 				<el type="array">
 					<visibility_element type="array">
 						<TCEforms type="array">
-							<label>Komplettes Element</label>
+							<label>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.full_item</label>
 							<config type="array">
 								<type>select</type>
 								<items>
 									<numIndex index="1">
-                                    <numIndex index="0">Nicht sichtbar auf sehr klein</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.not_visible_xs</numIndex>
                                     <numIndex index="1">hidden-xs</numIndex>
                                     </numIndex>
                                     <numIndex index="2">
-                                    <numIndex index="0">Nicht sichtbar auf klein</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.not_visible_sm</numIndex>
                                     <numIndex index="1">hidden-sm</numIndex>
                                     </numIndex>
                                     <numIndex index="3">
-                                    <numIndex index="0">Nicht sichtbar auf normal</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.not_visible_md</numIndex>
                                     <numIndex index="1">hidden-md</numIndex>
                                     </numIndex>
                                     <numIndex index="4">
-                                    <numIndex index="0">Nicht sichtbar auf sehr groß</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.not_visible_lg</numIndex>
                                     <numIndex index="1">hidden-lg</numIndex>
                                     </numIndex>
                                     <numIndex index="5">
-                                    <numIndex index="0">Nur sichtbar auf sehr klein</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.visible_only_xs</numIndex>
                                     <numIndex index="1">visible-xs</numIndex>
                                     </numIndex>
                                     <numIndex index="6">
-                                    <numIndex index="0">Nur sichtbar auf klein</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.visible_only_sm</numIndex>
                                     <numIndex index="1">visible-sm</numIndex>
                                     </numIndex>
                                     <numIndex index="7">
-                                    <numIndex index="0">Nur sichtbar auf normal</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.visible_only_md</numIndex>
                                     <numIndex index="1">visible-md</numIndex>
                                     </numIndex>
                                     <numIndex index="8">
-                                    <numIndex index="0">Nur sichtbar auf sehr groß</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.visible_only_lg</numIndex>
                                     <numIndex index="1">visible-lg</numIndex>
                                     </numIndex>
 								</items>
@@ -861,40 +861,40 @@
 					</visibility_element>
 					<visibility_col1 type="array">
 						<TCEforms type="array">
-							<label>Spalte 1</label>
+							<label>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.colunm_1</label>
 							<config type="array">
 								<type>select</type>
 								<items>
 									<numIndex index="1">
-                                    <numIndex index="0">Nicht sichtbar auf sehr klein</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.not_visible_xs</numIndex>
                                     <numIndex index="1">hidden-xs</numIndex>
                                     </numIndex>
                                     <numIndex index="2">
-                                    <numIndex index="0">Nicht sichtbar auf klein</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.not_visible_sm</numIndex>
                                     <numIndex index="1">hidden-sm</numIndex>
                                     </numIndex>
                                     <numIndex index="3">
-                                    <numIndex index="0">Nicht sichtbar auf normal</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.not_visible_md</numIndex>
                                     <numIndex index="1">hidden-md</numIndex>
                                     </numIndex>
                                     <numIndex index="4">
-                                    <numIndex index="0">Nicht sichtbar auf sehr groß</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.not_visible_lg</numIndex>
                                     <numIndex index="1">hidden-lg</numIndex>
                                     </numIndex>
                                     <numIndex index="5">
-                                    <numIndex index="0">Nur sichtbar auf sehr klein</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.visible_only_xs</numIndex>
                                     <numIndex index="1">visible-xs</numIndex>
                                     </numIndex>
                                     <numIndex index="6">
-                                    <numIndex index="0">Nur sichtbar auf klein</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.visible_only_sm</numIndex>
                                     <numIndex index="1">visible-sm</numIndex>
                                     </numIndex>
                                     <numIndex index="7">
-                                    <numIndex index="0">Nur sichtbar auf normal</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.visible_only_md</numIndex>
                                     <numIndex index="1">visible-md</numIndex>
                                     </numIndex>
                                     <numIndex index="8">
-                                    <numIndex index="0">Nur sichtbar auf sehr groß</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.visible_only_lg</numIndex>
                                     <numIndex index="1">visible-lg</numIndex>
                                     </numIndex>
 								</items>
@@ -907,40 +907,40 @@
 					</visibility_col1>
 					<visibility_col2 type="array">
 						<TCEforms type="array">
-							<label>Spalte 2</label>
+							<label>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.colunm_2</label>
 							<config type="array">
 								<type>select</type>
 								<items>
 									<numIndex index="1">
-                                    <numIndex index="0">Nicht sichtbar auf sehr klein</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.not_visible_xs</numIndex>
                                     <numIndex index="1">hidden-xs</numIndex>
                                     </numIndex>
                                     <numIndex index="2">
-                                    <numIndex index="0">Nicht sichtbar auf klein</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.not_visible_sm</numIndex>
                                     <numIndex index="1">hidden-sm</numIndex>
                                     </numIndex>
                                     <numIndex index="3">
-                                    <numIndex index="0">Nicht sichtbar auf normal</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.not_visible_md</numIndex>
                                     <numIndex index="1">hidden-md</numIndex>
                                     </numIndex>
                                     <numIndex index="4">
-                                    <numIndex index="0">Nicht sichtbar auf sehr groß</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.not_visible_lg</numIndex>
                                     <numIndex index="1">hidden-lg</numIndex>
                                     </numIndex>
                                     <numIndex index="5">
-                                    <numIndex index="0">Nur sichtbar auf sehr klein</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.visible_only_xs</numIndex>
                                     <numIndex index="1">visible-xs</numIndex>
                                     </numIndex>
                                     <numIndex index="6">
-                                    <numIndex index="0">Nur sichtbar auf klein</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.visible_only_sm</numIndex>
                                     <numIndex index="1">visible-sm</numIndex>
                                     </numIndex>
                                     <numIndex index="7">
-                                    <numIndex index="0">Nur sichtbar auf normal</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.visible_only_md</numIndex>
                                     <numIndex index="1">visible-md</numIndex>
                                     </numIndex>
                                     <numIndex index="8">
-                                    <numIndex index="0">Nur sichtbar auf sehr groß</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.visible_only_lg</numIndex>
                                     <numIndex index="1">visible-lg</numIndex>
                                     </numIndex>
 								</items>
@@ -953,40 +953,40 @@
 					</visibility_col2>
 					<visibility_col3 type="array">
 						<TCEforms type="array">
-							<label>Spalte 3</label>
+							<label>LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.colunm_3</label>
 							<config type="array">
 								<type>select</type>
 								<items>
 									<numIndex index="1">
-                                    <numIndex index="0">Nicht sichtbar auf sehr klein</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.not_visible_xs</numIndex>
                                     <numIndex index="1">hidden-xs</numIndex>
                                     </numIndex>
                                     <numIndex index="2">
-                                    <numIndex index="0">Nicht sichtbar auf klein</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.not_visible_sm</numIndex>
                                     <numIndex index="1">hidden-sm</numIndex>
                                     </numIndex>
                                     <numIndex index="3">
-                                    <numIndex index="0">Nicht sichtbar auf normal</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.not_visible_md</numIndex>
                                     <numIndex index="1">hidden-md</numIndex>
                                     </numIndex>
                                     <numIndex index="4">
-                                    <numIndex index="0">Nicht sichtbar auf sehr groß</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.not_visible_lg</numIndex>
                                     <numIndex index="1">hidden-lg</numIndex>
                                     </numIndex>
                                     <numIndex index="5">
-                                    <numIndex index="0">Nur sichtbar auf sehr klein</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.visible_only_xs</numIndex>
                                     <numIndex index="1">visible-xs</numIndex>
                                     </numIndex>
                                     <numIndex index="6">
-                                    <numIndex index="0">Nur sichtbar auf klein</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.visible_only_sm</numIndex>
                                     <numIndex index="1">visible-sm</numIndex>
                                     </numIndex>
                                     <numIndex index="7">
-                                    <numIndex index="0">Nur sichtbar auf normal</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.visible_only_md</numIndex>
                                     <numIndex index="1">visible-md</numIndex>
                                     </numIndex>
                                     <numIndex index="8">
-                                    <numIndex index="0">Nur sichtbar auf sehr groß</numIndex>
+                                    <numIndex index="0">LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp.visible_only_lg</numIndex>
                                     <numIndex index="1">visible-lg</numIndex>
                                     </numIndex>
 								</items>

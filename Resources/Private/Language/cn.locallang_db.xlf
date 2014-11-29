@@ -1,51 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <xliff version="1.0">
-	<file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2014-11-16T13:40:18Z" product-name="xpfcetmp">
+	<file source-language="en" target-language="cn" datatype="plaintext" original="messages" date="2014-11-16T13:40:18Z" product-name="xpfcetmp">
 		<header/>
 		<body>
 		    <trans-unit id="tx_xpfcetmp_2col">
 				<source>FCE 2 Columns</source>
-				<target state="translated">FCE 2 Columns</target>
+				<target state="translated">FCE 2 列</target>
 			</trans-unit>
-			
 			<trans-unit id="tx_xpfcetmp_3col">
-				<source>FCE 3 Columns</source>
-				<target state="translated">FCE 3 Columns</target>
+				<source>FCE 3 </source>
+				<target state="translated">FCE 3 列</target>
 			</trans-unit>
-			
 			<trans-unit id="tx_xpfcetmp_4col">
-				<source>FCE 4 Columns</source>
-				<target state="translated">FCE 4 Columns</target>
+				<source>FCE 4 列</source>
+				<target state="translated">FCE 4 列</target>
 			</trans-unit>
 			
 			<trans-unit id="tx_xpfcetmp_2col.description">
-				<source>To represent an item to columns.</source>
+				<source>Ein Element um Spalten darstellen zu können.</source>
 				<target state="translated">bala</target>
 			</trans-unit>
-			
 			<trans-unit id="tx_xpfcetmp_3col.description">
-				<source>To represent an item to columns.</source>
+				<source>Ein Element um Spalten darstellen zu können.</source>
 				<target state="translated">bala2</target>
 			</trans-unit>
-			
 			<trans-unit id="tx_xpfcetmp_4col.description">
-				<source>To represent an item to columns.</source>
+				<source>Ein Element um Spalten darstellen zu können.</source>
 				<target state="translated">bala3</target>
 			</trans-unit>
 			
 			<trans-unit id="tx_xpfcetmp.sameheight">
-				<source>Same height for all columns</source>
-				<target state="translated">Gleiche Höhe für alle Spalten</target>
+				<source>Gleiche Höhe für alle Spalten</source>
+				<target state="translated">所有的列同一高度</target>
 			</trans-unit>
-			
 			<trans-unit id="tx_xpfcetmp.enabled">
-				<source>enabled</source>
-				<target state="translated">Aktiviert</target>
+				<source>Aktiviert</source>
+				<target state="translated">启用</target>
 			</trans-unit>
-			
 			<trans-unit id="tx_xpfcetmp.undefined">
-				<source>undefined</source>
-				<target state="translated">Nicht definiert</target>
+				<source>Nicht definiert</source>
+				<target state="translated">未定义</target>
 			</trans-unit>
 			
 			<trans-unit id="tx_xpfcetmp.title_md">
@@ -158,7 +152,6 @@
 				<target state="translated">Breite Spalte 4</target>
 			</trans-unit>
 			
-
 		</body>
 	</file>
 </xliff>

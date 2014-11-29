@@ -146,7 +146,7 @@ plugin.tx_gridelements_pi1.setup.bootstrap_2col {
         containerAttributes.cObject {
             10 = TEXT
             10 {
-                noTrimWrap = | class="column-2 row |"|
+                noTrimWrap = | class="column-2 row |"|                
             }
         }
       
