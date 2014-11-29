@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2014-11-16T13:40:18Z" product-name="xpfcetmp">
+		<header/>
+		<body>
+		    <trans-unit id="tx_xpfcetmp_2col">
+				<source>FCE 2 列</source>
+				<target state="translated">FCE 2 Spalten</target>
+			</trans-unit>
+			<trans-unit id="tx_xpfcetmp_3col">
+				<source>FCE 3 列</source>
+				<target state="translated">FCE 3 Spalten</target>
+			</trans-unit>
+			<trans-unit id="tx_xpfcetmp_4col">
+				<source>FCE 4 列</source>
+				<target state="translated">FCE 4 Spalten</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp_2col.description">
+				<source>Ein Element um Spalten darstellen zu können.</source>
+				<target state="translated">Ein Element um Spalten darstellen zu können.</target>
+			</trans-unit>
+			<trans-unit id="tx_xpfcetmp_3col.description">
+				<source>Ein Element um Spalten darstellen zu können.</source>
+				<target state="translated">Ein Element um Spalten darstellen zu können.</target>
+			</trans-unit>
+			<trans-unit id="tx_xpfcetmp_4col.description">
+				<source>Ein Element um Spalten darstellen zu können.</source>
+				<target state="translated">Ein Element um Spalten darstellen zu können.</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.sameheight">
+				<source>所有的列同一高度</source>
+				<target state="translated">Gleiche Höhe für alle Spalten</target>
+			</trans-unit>
+			<trans-unit id="tx_xpfcetmp.enabled">
+				<source>启用</source>
+				<target state="translated">Aktiviert</target>
+			</trans-unit>
+			<trans-unit id="tx_xpfcetmp.undefined">
+				<source>未定义</source>
+				<target state="translated">Nicht definiert</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.title_md">
+				<source>Spalten (md)</source>
+				<target state="translated">Spalten (md)</target>
+			</trans-unit>
+						
+			<trans-unit id="tx_xpfcetmp.title_xs">
+				<source>Spalten (sehr klein)</source>
+				<target state="translated">Spalten (sehr klein)</target>
+			</trans-unit>
+						
+			<trans-unit id="tx_xpfcetmp.title_sm">
+				<source>Spalten (klein)</source>
+				<target state="translated">Spalten (klein)</target>
+			</trans-unit>
+						
+			<trans-unit id="tx_xpfcetmp.title_lg">
+				<source>Spalten (sehr groß)</source>
+				<target state="translated">Spalten (sehr groß)</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.visibility">
+				<source>visibility</source>
+				<target state="translated">Sichtbarkeit</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.full_item">
+				<source>full item</source>
+				<target state="translated">Komplettes Element</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.not_visible_xs">
+				<source>Not visible on very small</source>
+				<target state="translated">Nicht sichtbar auf sehr klein</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.not_visible_sm">
+				<source>Not visible on small</source>
+				<target state="translated">Nicht sichtbar auf klein</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.not_visible_md">
+				<source>Not visible on MD</source>
+				<target state="translated">Nicht sichtbar auf MD</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.not_visible_lg">
+				<source>Not visible on LG</source>
+				<target state="translated">Nicht sichtbar auf LG</target>
+			</trans-unit>
+
+			<trans-unit id="tx_xpfcetmp.visible_only_xs">
+				<source>Visible only to very small</source>
+				<target state="translated">Nur sichtbar auf sehr klein</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.visible_only_sm">
+				<source>Visible only to small</source>
+				<target state="translated">Nur sichtbar auf klein</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.visible_only_md">
+				<source>Visible only to md</source>
+				<target state="translated">Nur sichtbar auf MD</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.visible_only_lg">
+				<source>Visible only to lg</source>
+				<target state="translated">Nur sichtbar auf LG</target>
+			</trans-unit>
+						
+			<trans-unit id="tx_xpfcetmp.colunm_1">
+				<source>column 1</source>
+				<target state="translated">Spalte 1</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.colunm_2">
+				<source>column 2</source>
+				<target state="translated">Spalte 2</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.colunm_3">
+				<source>column 3</source>
+				<target state="translated">Spalte 3</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.colunm_4">
+				<source>column 4</source>
+				<target state="translated">Spalte 4</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.width_colunm_1">
+				<source>Width Column 1</source>
+				<target state="translated">Breite Spalte 1</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.width_colunm_2">
+				<source>Width Column 2</source>
+				<target state="translated">Breite Spalte 2</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.width_colunm_3">
+				<source>Width Column 3</source>
+				<target state="translated">Breite Spalte 3</target>
+			</trans-unit>			
+			
+			<trans-unit id="tx_xpfcetmp.width_colunm_4">
+				<source>Width Column 4</source>
+				<target state="translated">Breite Spalte 4</target>
+			</trans-unit>
+			
+		</body>
+	</file>
+</xliff>

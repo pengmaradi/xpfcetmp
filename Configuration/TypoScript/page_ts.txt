@@ -1,0 +1,93 @@
+#
+# Grid elements
+# Backend Layouts
+#
+tx_gridelements.setup.bootstrap_2col {
+    title = LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp_2col
+    description = LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp_2col.description
+    flexformDS = FILE:EXT:xpfcetmp/Resources/Private/Xml/bootstrap3_columns_2col.xml
+     
+    config {
+        colCount = 2
+        rowCount = 1
+     
+        rows {
+                1 {
+                    columns {
+                    1 {
+                        name = Spalte 1
+                        colPos = 0
+                    }
+                        2 {
+                            name = Spalte 2
+                            colPos = 1
+                        }
+                    }
+                }
+        }
+    }
+}
+
+tx_gridelements.setup.bootstrap_3col {
+    title = LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp_3col
+    description = LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp_3col.description
+    flexformDS = FILE:EXT:xpfcetmp/Resources/Private/Xml/bootstrap3_columns_3col.xml
+     
+    config {
+        colCount = 3
+        rowCount = 1
+         
+        rows {
+            1 {
+                columns {
+                    1 {
+                        name = Spalte 1
+                        colPos = 0
+                    }
+                    2 {
+                        name = Spalte 2
+                        colPos = 1
+                    }
+                    3 {
+                        name = Spalte 3
+                        colPos = 2
+                    }
+                }
+            }
+        }
+    }
+}
+
+tx_gridelements.setup.bootstrap_4col {
+    title = LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp_4col
+    description = LLL:EXT:xpfcetmp/Resources/Private/Language/locallang_db.xlf:tx_xpfcetmp_4col.description
+    flexformDS = FILE:EXT:xpfcetmp/Resources/Private/Xml/bootstrap3_columns_4col.xml
+     
+    config {
+        colCount = 4
+        rowCount = 1
+         
+        rows {
+            1 {
+                columns {
+                1 {
+                    name = Spalte 1
+                    colPos = 0
+                }
+                2 {
+                    name = Spalte 2
+                    colPos = 1
+                }
+                3 {
+                    name = Spalte 3
+                    colPos = 2
+                }
+                4 {
+                    name = Spalte 4
+                    colPos = 3
+                }
+                }
+            }
+        }
+    }
+}
