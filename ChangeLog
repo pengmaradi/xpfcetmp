@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 2014-11-29 Xiaoling Peng <pengmaradi@gmail.com>
+=======
+2014-11-16 Xiaoling Peng <pengmaradi@gmail.com>
+>>>>>>> 190a1505dc922e45b3426908b44a22add7797887
     * version 0.0.2
     * finished translating
     * changed ext_tables.php to add translate xlf (xml)
