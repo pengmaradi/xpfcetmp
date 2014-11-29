@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" target-language="cn" datatype="plaintext" original="messages" date="2014-11-16T13:40:18Z" product-name="xpfcetmp">
+		<header/>
+		<body>
+		    <trans-unit id="tx_xpfcetmp_2col">
+				<source>FCE 2 列</source>
+				<target>FCE 2 Columns</target>
+			</trans-unit>
+			<trans-unit id="tx_xpfcetmp_3col">
+				<source>FCE 3 列</source>
+				<target>FCE 3 Columns</target>
+			</trans-unit>
+			<trans-unit id="tx_xpfcetmp_4col">
+				<source>FCE 4 列</source>
+				<target>FCE 4 Columns</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp_2col.description">
+				<source>Ein Element um Spalten darstellen zu können.</source>
+				<target>bala</target>
+			</trans-unit>
+			<trans-unit id="tx_xpfcetmp_3col.description">
+				<source>Ein Element um Spalten darstellen zu können.</source>
+				<target>bala2</target>
+			</trans-unit>
+			<trans-unit id="tx_xpfcetmp_4col.description">
+				<source>Ein Element um Spalten darstellen zu können.</source>
+				<target>bala3</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_xpfcetmp.sameheight">
+				<source>所有的列同一高度</source>
+				<target>Gleiche Höhe für alle Spalten</target>
+			</trans-unit>
+			<trans-unit id="tx_xpfcetmp.enabled">
+				<source>启用</source>
+				<target>Aktiviert</target>
+			</trans-unit>
+			<trans-unit id="tx_xpfcetmp.undefined">
+				<source>未定义</source>
+				<target>Nicht definiert</target>
+			</trans-unit>
+			
+			
+		</body>
+	</file>
+</xliff>
